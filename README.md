@@ -6,7 +6,9 @@ This project aims to recognize the character of a certain license plate using Ea
 
 The Tesseract OCR is done with both Non-Sharpened Images and Sharpened Images
 
-The EasyOCR is done with Binarazation and Denoised Images
+The EasyOCR is done with Binarization and Denoised Images
+
+**_Note: The result of each OCR is not shown on the code because it causes a rendering problem_**
 
 ## Project Summary
 ### Tesseract with Non-Sharpened Images
