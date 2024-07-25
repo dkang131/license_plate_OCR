@@ -48,5 +48,5 @@ Run Time: 67m 21.3s
 
 The result of this project is far from perfect because of the accuracy is very low.
 
-Please feel free to discuss with me through [email](darrenkang03@gmail.com) if you know how to improve the quality of the OCR
+Please feel free to discuss with me through [email](darrenkang03@gmail.com) if you know how to improve the quality of the OCR or any other recommendations
 
